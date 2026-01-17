@@ -83,4 +83,22 @@ The dashboard demonstrates how **data-driven decision-making** can improve **cus
 
 ---
 
+## 🧠 Key Learnings
+✨ Business-focused dashboard storytelling  
+✨ Translating analytics into actionable insights  
+✨ Identifying operational bottlenecks using data  
+✨ Presenting before-and-after decision impact  
+
+---
+
+## 🏁 Conclusion
+This project showcases how **Power BI** can be used beyond reporting —  
+to support **strategic decision-making**, improve **customer experience**,  
+and drive **revenue growth** in real-world business scenarios.
+
+⭐ Feedback and suggestions are welcome!
+
+
+
+
 
