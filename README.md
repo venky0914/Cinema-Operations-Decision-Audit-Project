@@ -1,8 +1,11 @@
 # 🎬 Cinema Operations Decision Audit  
 ### 📊 Power BI Analytics Dashboard
-<img width="1293" height="729" alt="Screenshot 2026-01-17 171505" src="https://github.com/user-attachments/assets/ea56edab-c8be-46ba-8898-34979aa33bd8" />
+<img width="1295" height="722" alt="Screenshot 2026-01-29 220955" src="https://github.com/user-attachments/assets/1319e03f-f53d-481d-b3a9-23f5aa4b663c" />
 
-<img width="1298" height="731" alt="Screenshot 2026-01-17 171533" src="https://github.com/user-attachments/assets/7ab75beb-3433-404b-9ab5-e361051f790a" />
+
+<img width="1281" height="726" alt="Screenshot 2026-01-29 221330" src="https://github.com/user-attachments/assets/1463ad81-29e5-47df-a71d-2abe93bc6a54" />
+
+<img width="1281" height="720" alt="Screenshot 2026-01-29 230105" src="https://github.com/user-attachments/assets/bf12b1ac-33f6-4e6a-a43d-b35deaf07824" />
 
 
 
