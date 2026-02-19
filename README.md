@@ -7,6 +7,8 @@
 
 <img width="1281" height="720" alt="Screenshot 2026-01-29 230105" src="https://github.com/user-attachments/assets/bf12b1ac-33f6-4e6a-a43d-b35deaf07824" />
 
+**View Dashboard** : https://app.powerbi.com/view?r=eyJrIjoiMjBiNDZhMWYtYzRhYy00MTNmLWJkYmUtZWZiM2JlODliZjI4IiwidCI6IjIxZTZlZDczLTUyMTAtNDM3OC1iNzA1LTMxM2UxMzBlODA0MyJ9
+
 
 
 ---
